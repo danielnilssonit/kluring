@@ -1,0 +1,22 @@
+{
+ "name": "Kluring",
+ "short_name": "Kluring",
+ "start_url": "../../",
+ "scope": "../../",
+ "display": "fullscreen",
+ "orientation": "any",
+ "background_color": "#c9ecff",
+ "theme_color": "#9fd8ff",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
