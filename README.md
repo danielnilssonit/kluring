@@ -4,4 +4,4 @@ Matte, svenska och engelska för barn 3–10 år: korta pass, en by som växer, 
 
 Spela på https://danielnilssonit.github.io/kluring/
 
-Allt barnen gör sparas bara i webbläsaren på den egna plattan. Inget skickas någonstans.
+Framstegen sparas i webbläsaren på den egna enheten. Familjeläget och kompisspel delar namn och speldata mellan deltagarna via nätet under spelet. Spelet kräver inga konton eller köp med riktiga pengar.
